@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\bin\Debug\net6.0\QueuePerson.exe
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\bin\Debug\net6.0\QueuePerson.deps.json
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\bin\Debug\net6.0\QueuePerson.runtimeconfig.json
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\bin\Debug\net6.0\QueuePerson.dll
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\bin\Debug\net6.0\ref\QueuePerson.dll
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\bin\Debug\net6.0\QueuePerson.pdb
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.dll
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\ref\QueuePerson.dll
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.pdb
+C:\Users\Pavani\source\repos\QueuePerson\QueuePerson\obj\Debug\net6.0\QueuePerson.genruntimeconfig.cache
